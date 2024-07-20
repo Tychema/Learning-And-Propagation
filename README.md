@@ -14,9 +14,9 @@ It is worth mentioning that because python runs slowly, we use cuda library to i
 
 Results
 ----
-![https://github.com/Tychema/Learning-And-Propagation/raw/master/img/pic1.png](https://github.com/Tychema/Learning-And-Propagation/tree/main/img/pic1.png)
+![https://github.com/Tychema/Learning-And-Propagation/blob/main/img/pic1.png](https://github.com/Tychema/Learning-And-Propagation/blob/main/img/pic1.png)
 
-![https://github.com/Tychema/Learning-And-Propagation/raw/master/img/pic6.png](https://github.com/Tychema/Learning-And-Propagation/tree/main/img/pic6.png)
+![https://github.com/Tychema/Learning-And-Propagation/blob/main/img/pic6.png](https://github.com/Tychema/Learning-And-Propagation/blob/main/img/pic6.png)
 
 Update
 ----
