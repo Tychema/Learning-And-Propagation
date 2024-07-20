@@ -14,8 +14,10 @@ It is worth mentioning that because python runs slowly, we use cuda library to i
 
 Results
 ----
+Case Ⅰ And Case Ⅱ
 ![https://github.com/Tychema/Learning-And-Propagation/blob/main/img/pic1.png](https://github.com/Tychema/Learning-And-Propagation/blob/main/img/pic1.png)
 
+Case Ⅲ
 ![https://github.com/Tychema/Learning-And-Propagation/blob/main/img/pic6.png](https://github.com/Tychema/Learning-And-Propagation/blob/main/img/pic6.png)
 
 Update
