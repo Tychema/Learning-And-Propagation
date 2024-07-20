@@ -10,6 +10,14 @@ It is worth mentioning that because python runs slowly, we use cuda library to i
 * torch Version: 2.2.1
 * numpy Version: 1.26.4
 * pandas Version: 2.2.2
-We are committed to refining the code to enhance its readability and reusability. Upon completion of this process, we will synchronize the full source code to the GitHub repository, ensuring easy access for other researchers.
+
 
 Results
+----
+![](https://github.com/Tychema/Learning-And-Propagation/raw/master/img/1.png)  
+
+![](https://github.com/Tychema/Learning-And-Propagation/raw/master/img/6.png)  
+
+Update
+----
+We are committed to refining the code to enhance its readability and reusability. Upon completion of this process, we will synchronize the full source code to the GitHub repository, ensuring easy access for other researchers.
