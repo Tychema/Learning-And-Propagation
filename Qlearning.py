@@ -1,3 +1,14 @@
+
+################################
+##This package is a python source code of SPGG.
+
+##Please see the following paper:
+
+##Shen, Y.; Ma, Y.; Kang, H.; Sun, X.; Chen, Q.
+
+##Propagation and Learning: Updating Strategies in Spatial Public Goods Games through Combined Fermi Update and Q-Learning
+################################
+
 import torch
 
 from torch import tensor
