@@ -21,12 +21,12 @@ import matplotlib as mpl
 import torch.nn as nn
 from matplotlib.colors import LinearSegmentedColormap
 
-# 定义两个线性分段的颜色映射
+
 colors = [(48, 83, 133), (218, 160, 90), (253, 243, 197)]  # R -> G -> B
 colors = [(color[0] / 255, color[1] / 255, color[2] / 255) for color in colors]
 cmap_mma = LinearSegmentedColormap.from_list("mma", colors, N=256)
 
-# 定义另一个颜色映射
+
 colors = ["#eeeeee", "#111111", "#787ac0", ]
 cmap = mpl.colors.ListedColormap(colors, N=3)
 

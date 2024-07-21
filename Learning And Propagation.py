@@ -10,8 +10,7 @@
 ################################
 
 
-#用Fermi实现Qlearning博弈
-#Fermi的pi_y和pi_x用Q表的值来代替
+
 
 
 import torch
