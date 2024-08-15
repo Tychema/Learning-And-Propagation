@@ -26,6 +26,19 @@ Update
 ----
 We are committed to refining the code to enhance its readability and reusability. Upon completion of this process, we will synchronize the full source code to the GitHub repository, ensuring easy access for other researchers.
 
+Citation
+=====
+@article{SHEN2024115377,
+title = {Learning and propagation: Evolutionary dynamics in spatial public goods games through combined Q-learning and Fermi rule},
+journal = {Chaos, Solitons & Fractals},
+volume = {187},
+pages = {115377},
+year = {2024},
+issn = {0960-0779},
+doi = {https://doi.org/10.1016/j.chaos.2024.115377},
+url = {https://www.sciencedirect.com/science/article/pii/S0960077924009299},
+author = {Yong Shen and Yujie Ma and Hongwei Kang and Xingping Sun and Qingyi Chen}
+}
 
 copyright
 =====
