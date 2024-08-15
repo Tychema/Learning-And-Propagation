@@ -5,12 +5,14 @@ Propagation is crucial for acquiring information, and learning involves deep inf
 Requirements
 ----
 It is worth mentioning that because python runs slowly, we use cuda library to improve the speed of code running.
+
+`<
 * Python Version 3.12.2
 * CUDA Version: 12.4
 * torch Version: 2.2.1
 * numpy Version: 1.26.4
 * pandas Version: 2.2.2
-
+>`
 
 Results
 ----
@@ -28,6 +30,7 @@ We are committed to refining the code to enhance its readability and reusability
 
 Citation
 =====
+`<
 @article{SHEN2024115377,
 title = {Learning and propagation: Evolutionary dynamics in spatial public goods games through combined Q-learning and Fermi rule},
 journal = {Chaos, Solitons & Fractals},
@@ -39,7 +42,8 @@ doi = {https://doi.org/10.1016/j.chaos.2024.115377},
 url = {https://www.sciencedirect.com/science/article/pii/S0960077924009299},
 author = {Yong Shen and Yujie Ma and Hongwei Kang and Xingping Sun and Qingyi Chen}
 }
-
+>`
+>
 copyright
 =====
 This package is a python source code of SPGG.
