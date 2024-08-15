@@ -7,6 +7,8 @@
 ##Shen, Y.; Ma, Y.; Kang, H.; Sun, X.; Chen, Q.
 
 ##Propagation and Learning: Updating Strategies in Spatial Public Goods Games through Combined Fermi Update and Q-Learning. Chaos, Solitons & Fractals. 2024, 187, 115377.
+
+##https://doi.org/10.1016/j.chaos.2024.115377
 ################################
 
 
